@@ -1,0 +1,6 @@
+arviz==0.16.1
+matplotlib==3.7.3
+numpy==1.25.2
+pandas==2.1.1
+protobuf==4.24.4
+scipy==1.11.3
