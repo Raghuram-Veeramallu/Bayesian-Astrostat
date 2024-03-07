@@ -1,6 +1,11 @@
 ## Fraction of Binary stars in NGC 5053  
 
-Our project aims at identifying the fraction of binary stars in the Globular Cluster NGC 5053.
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+
+The project aims at identifying the fraction of binary stars in the Globular Cluster NGC 5053.  
+
+<img src="imgs/histprobabs.png" width=33% height=33%>   <img src="imgs/obsvsactual.png" width=33% height=33%>   <img src="imgs/binarystarhist.png" width=33% height=33%>  
+
 
 ### Background
 The dynamical evolution of a globular cluster (GC) can be impacted by the binary fraction, which is a measurement of the percent of the stars in a GC that are binary systems. Even a small binary fraction can have a large influence by cooling the cluster and pushing the system towards a higher mass concentration. This GC was chosen because a previous survey was carried out that found a sample of binary stars, and the detection rate bias parameter was determined for this galaxy, so we can adjust the recorded rate with the rate that would go undetected.
